@@ -1,5 +1,5 @@
 
-# Local_música
+# Local_musica
 
 Local_música, é uma aplicação criada em javascript, 
 com o intuito de gerar playlists aleatórias, real acionando
