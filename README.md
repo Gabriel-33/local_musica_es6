@@ -7,7 +7,7 @@ a um determinado local geográfico e um gênero musical.
 Para isso, foram utilizadas as api's do 
 google maps e spotify para realizar as funcionalidades 
 da aplicação.
-
+------------
 
 ## Tecnologias usadas
 
@@ -16,7 +16,7 @@ da aplicação.
 - Css
 - Api do spotify
 - Api do google maps
-
+------------
 
 ## Instalação
 
